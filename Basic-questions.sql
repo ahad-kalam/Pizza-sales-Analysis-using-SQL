@@ -87,3 +87,6 @@ FROM
 GROUP BY name
 ORDER BY total_quantities DESC
 LIMIT 5;
+
+
+-- 6. 
