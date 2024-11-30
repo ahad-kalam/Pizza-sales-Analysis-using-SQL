@@ -111,3 +111,6 @@ FROM
 GROUP BY pizza_types.name
 ORDER BY revenue DESC
 LIMIT 3;
+
+
+-- 7. 
